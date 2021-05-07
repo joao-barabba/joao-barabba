@@ -1,16 +1,25 @@
-### Hi there 👋
+# Bem-vindo(a), Como vai?
 
-<!--
-**joao-barabba/joao-barabba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github.com/felipesantos10/felipesantos10/blob/master/image.png" width="425"/>
 
-Here are some ideas to get you started:
+#### Prazer me chamo João
+• 🎓Estudante - Desenvolvimento de Sistemas na ETEC.  
+• 💻Front-end - Developer Estou aprendendo: Html, Css, JavaScript, React & Angular.    
+• 🎯 Objetivo: Pretendo me tornar Desenvolvedor Full Stack. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+There is always something new to learn  🚀 
+
+ ## Contato
+[![Linkedin Badge](https://img.shields.io/badge/-João%20Barabba-18A4EF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-victor-soares-nascimento-600484173/)](https://www.linkedin.com/in/jo%C3%A3o-victor-soares-nascimento-600484173/) 
+[![Gmail Badge](https://img.shields.io/badge/-jvbarabba@gmail.com-18A4EF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jvbarabba@gmail.com)](mailto:jvbarabba@gmail.com)
+
+Entusiasta das melhores tecnologias de desenvolvimento web e mobile.
+
+### Sobre mim
+Apaixonado por design, música, tocar violão, jogar video game, aprender, ler e programar. Meu amor pela tecnologia, vem da forma com que ela tem o poder de mudar as coisas com um "simples código", isso me faz querer mais e mais dia após dia e funciona como combustivel..
+
+
+<p align = "center">
+  <a href="https://github.com/joao-barabba"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-barabba&layout=compact&theme=dark"/></a> 
+  <a href="https://github.com/joao-barabba"><img src="https://github-readme-stats.vercel.app/api?username=joao-barabba&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="joao-barabba"/></a>
+</p> 
