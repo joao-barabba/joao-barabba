@@ -3,7 +3,7 @@
 <img align="right" src="https://github.com/felipesantos10/felipesantos10/blob/master/image.png" width="425"/>
 
 #### Prazer me chamo João
-• 🎓Estudante - Desenvolvimento de Sistemas na ETEC.  
+• 🎓Estudante - Desenvolvimento de Sistemas na UNISA.  
 • 💻Front-end - Developer Estou aprendendo: Html, Css, JavaScript, React & Angular.    
 • 🎯 Objetivo: Pretendo me tornar Desenvolvedor Full Stack. 
 
