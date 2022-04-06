@@ -3,8 +3,9 @@
 <img align="right" src="https://github.com/felipesantos10/felipesantos10/blob/master/image.png" width="425"/>
 
 #### Prazer me chamo João
-• 🎓Estudante - Desenvolvimento de Sistemas na UNISA.  
-• 💻Front-end - Developer Estou aprendendo: Html, Css, JavaScript, React & Angular.    
+• 🎓 Estudante - Desenvolvimento de Sistemas na UNISA.  
+• 💻 Front-end - Developer Estou aprendendo: Html, Css, JavaScript, React & Angular.
+• 💻 Back-end - Developer: Estudando Python e MySQL.
 • 🎯 Objetivo: Pretendo me tornar Desenvolvedor Full Stack. 
 
 There is always something new to learn  🚀 
@@ -19,7 +20,10 @@ Entusiasta das melhores tecnologias de desenvolvimento web e mobile.
 Apaixonado por design, música, tocar violão, jogar video game, aprender, ler e programar. Meu amor pela tecnologia, vem da forma com que ela tem o poder de mudar as coisas com um "simples código", isso me faz querer mais e mais dia após dia e funciona como combustivel..
 
 
-<p align = "center">
-  <a href="https://github.com/joao-barabba"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-barabba&layout=compact&theme=dark"/></a> 
-  <a href="https://github.com/joao-barabba"><img src="https://github-readme-stats.vercel.app/api?username=joao-barabba&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="joao-barabba"/></a>
-</p> 
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=joao-barabba&layout=compact&theme=dark" alt="Jhon's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?joao-barabba&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="joao-barabba"/>
+</p>
+
+<br><br>
+
