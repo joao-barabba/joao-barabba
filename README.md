@@ -22,7 +22,7 @@ Apaixonado por design, música, tocar violão, jogar video game, aprender, ler e
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=joao-barabba&layout=compact&theme=dark" alt="Jhon's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?joao-barabba&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="joao-barabba"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-barabba&layout=compact&theme=dark" alt="joao-barabba"/>
 </p>
 
 <br><br>
