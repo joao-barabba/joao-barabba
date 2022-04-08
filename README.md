@@ -3,9 +3,12 @@
 <img align="right" src="https://github.com/felipesantos10/felipesantos10/blob/master/image.png" width="425"/>
 
 #### Prazer me chamo João
-• 🎓 Estudante - Desenvolvimento de Sistemas na UNISA.  
+• 🎓 Estudante - Desenvolvimento de Sistemas na UNISA.
+
 • 💻 Front-end - Developer Estou aprendendo: Html, Css, JavaScript, React & Angular.
+
 • 💻 Back-end - Developer: Estudando Python e MySQL.
+
 • 🎯 Objetivo: Pretendo me tornar Desenvolvedor Full Stack. 
 
 There is always something new to learn  🚀 
